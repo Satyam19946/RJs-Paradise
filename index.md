@@ -26,7 +26,7 @@ Here is my anime list and my reviews about them. It is not completely updated as
 
 
 ## Profile Picture
-![image](https://github.com/rsingh84/rsingh84.github.io/blob/main/giphy.gif)
+![image](https://media.giphy.com/media/qhG7C7nHYqeLwOXmed/giphy.gif)
 
 
 My favorite quote by Confucius
