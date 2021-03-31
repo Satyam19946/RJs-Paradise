@@ -2,11 +2,11 @@
 
 [Go to Profile Picture](#Profile-Picture)
 
-I am currently a 3rd year Computer Science major at University of California, San Diego. I honestly do not know why I chose to major in CS but I know it has something to do with my interest in computers. I was and still am super hands on person and technical. I just hope it brings me money. 
+I am currently a 3rd year Computer Science major at University of California, San Diego. I currently code in C++I honestly do not know why I chose to major in CS but I know it has something to do with my interest in computers. I was and still am super hands on person and technical. I just hope it brings me money. 
 
 I hope to one day enter the industry just for a little bit to gain some experience. One day I will like to become a teacher. Maybe even get 5 star rating on Rate My Professor.
 
-GitHub account -> https://github.com/rsingh84
+[GitHub account](https://github.com/rsingh84)
 
 ### About Me
 
