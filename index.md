@@ -1,6 +1,6 @@
 ## Welcome to RJ's User Page
 
-[Go to Profile Picture](#Profile-Picture)
+[Pictures](#Pictures)
 
 I am currently a 3rd year Computer Science major at University of California, San Diego. I currently code in C++I honestly do not know why I chose to major in CS but I know it has something to do with my interest in computers. I was and still am super hands on person and technical. I just hope it brings me money. 
 
@@ -25,8 +25,9 @@ Here is my anime list and my reviews about them. It is not completely updated as
 [Anime list](https://myanimelist.net/animelist/SirCobalt)
 
 
-## Profile Picture
+## Pictures
 ![image](https://media.giphy.com/media/qhG7C7nHYqeLwOXmed/giphy.gif)
+![Overlord](https://user-images.githubusercontent.com/77314754/113215164-51e4cf00-922f-11eb-997a-69a0d0ab314f.jpg)
 
 
 My favorite quote by Confucius
