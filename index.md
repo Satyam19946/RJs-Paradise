@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to RJ's User Page
 
-You can use the [editor on GitHub](https://github.com/rsingh84/rsingh84.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[Go to Profile Picture](#Profile-Picture)
+I am currently a 3rd year Computer Science major at University of California, San Diego. I honestly do not know why I chose to major in CS but I know it has something to do with my interest in computers. I was and still am super hands on person and technical. I just hope it brings me money. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hope to one day enter the industry just for a little bit to gain some experience. One day I will like to become a teacher. Maybe even get 5 star rating on Rate My Professor.
 
-### Markdown
+GitHub account -> https://github.com/rsingh84
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Me
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- I love to take walks on the beach.
+- Watching anime and reading manga is something I love to do on my off time. 
+- When I am not doing the two above I also read books (Currently reading Duke Pendragon).
+- Also I have many nicknames. To shorten my full name, a lot of friends call me RJ but my family and close family members call me Joda. 
 
-- Bulleted
-- List
+- Little _secret_ about me is when it is called for I will party pretty hard and can hold my liquor. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Here is my anime list and my reviews about them. It is not completely updated as I have to comb through a bunch to review them all. Will take me a while.
+
+[Anime list](https://myanimelist.net/animelist/SirCobalt)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+##Profile Picture
+![image](https://github.com/rsingh84/rsingh84.github.io/blob/main/giphy.gif)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rsingh84/rsingh84.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+My favorite quote by Confucius
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> “We have two lives, and the second begins when we realize we only have one.” 
