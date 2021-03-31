@@ -10,7 +10,7 @@ GitHub account -> https://github.com/rsingh84
 
 ### About Me
 
-```markdown
+
 
 - I love to take walks on the beach.
 - Watching anime and reading manga is something I love to do on my off time. 
@@ -20,12 +20,10 @@ GitHub account -> https://github.com/rsingh84
 - Little _secret_ about me is when it is called for I will party pretty hard and can hold my liquor. 
 
 
-```
 Here is my anime list and my reviews about them. It is not completely updated as I have to comb through a bunch to review them all. Will take me a while.
 
 [Anime list](https://myanimelist.net/animelist/SirCobalt)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Profile Picture
 ![image](https://github.com/rsingh84/rsingh84.github.io/blob/main/giphy.gif)
