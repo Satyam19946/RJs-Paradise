@@ -1,6 +1,6 @@
 ## Welcome to RJ's User Page
 
-[Pictures](#Pictures)
+[View Pictures Below](#Pictures)
 
 I am currently a 3rd year Computer Science major at University of California, San Diego. I currently code in C++I honestly do not know why I chose to major in CS but I know it has something to do with my interest in computers. I was and still am super hands on person and technical. I just hope it brings me money. 
 
