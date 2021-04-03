@@ -32,7 +32,7 @@ Here is my anime list and my reviews about them. It is not completely updated as
 
 [Anime list](https://myanimelist.net/animelist/SirCobalt)
 
-_Top 3 Favorite Anime_
+_Top 3 Favorite Anime in order_
 
 1. Overlord
 2. The Irregular at Magic High School
